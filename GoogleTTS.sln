@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TtsGenerator", "ttsGenerator\TtsGenerator.csproj", "{7A6523AF-F721-491A-AE61-853C46A434DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TtsGenerator-cli", "ttsGenerator-cli\TtsGenerator-cli.csproj", "{EC33BF3B-3D78-41D8-A2E0-2C03FEB4BC5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A6523AF-F721-491A-AE61-853C46A434DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6523AF-F721-491A-AE61-853C46A434DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A6523AF-F721-491A-AE61-853C46A434DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A6523AF-F721-491A-AE61-853C46A434DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC33BF3B-3D78-41D8-A2E0-2C03FEB4BC5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC33BF3B-3D78-41D8-A2E0-2C03FEB4BC5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC33BF3B-3D78-41D8-A2E0-2C03FEB4BC5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC33BF3B-3D78-41D8-A2E0-2C03FEB4BC5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {067FA6AC-2537-4095-A2F6-80AB04BAC1F1}
+	EndGlobalSection
+EndGlobal
